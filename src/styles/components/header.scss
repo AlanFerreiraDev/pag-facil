@@ -1,0 +1,23 @@
+$background-color-header: #00a152;
+$background: #33eb91;
+$font-color: #fff;
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  flex-direction: row;
+  padding: 2rem;
+  background-color: $background-color-header;
+  color: $font-color;
+
+  .menu {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+  }
+}

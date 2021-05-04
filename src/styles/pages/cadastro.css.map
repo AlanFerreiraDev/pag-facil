@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,aAAa,CAAC;EACZ,UAAU,EAJC,OAAO;EAKlB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;CAExB",
+    "sources": [
+        "cadastro.scss"
+    ],
+    "names": [],
+    "file": "cadastro.css"
+}
